@@ -1,0 +1,17 @@
+C:\Users\louise.augustsson\GitHub\CodeIsKing\TextEditor\TextEditorTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\louise.augustsson\GitHub\CodeIsKing\TextEditor\TextEditorTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\louise.augustsson\GitHub\CodeIsKing\TextEditor\TextEditorTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\louise.augustsson\GitHub\CodeIsKing\TextEditor\TextEditorTests\bin\Debug\netcoreapp2.1\TextEditorTests.deps.json
+C:\Users\louise.augustsson\GitHub\CodeIsKing\TextEditor\TextEditorTests\bin\Debug\netcoreapp2.1\TextEditorTests.runtimeconfig.json
+C:\Users\louise.augustsson\GitHub\CodeIsKing\TextEditor\TextEditorTests\bin\Debug\netcoreapp2.1\TextEditorTests.runtimeconfig.dev.json
+C:\Users\louise.augustsson\GitHub\CodeIsKing\TextEditor\TextEditorTests\bin\Debug\netcoreapp2.1\TextEditorTests.dll
+C:\Users\louise.augustsson\GitHub\CodeIsKing\TextEditor\TextEditorTests\bin\Debug\netcoreapp2.1\TextEditorTests.pdb
+C:\Users\louise.augustsson\GitHub\CodeIsKing\TextEditor\TextEditorTests\bin\Debug\netcoreapp2.1\TextEditor.dll
+C:\Users\louise.augustsson\GitHub\CodeIsKing\TextEditor\TextEditorTests\bin\Debug\netcoreapp2.1\TextEditor.pdb
+C:\Users\louise.augustsson\GitHub\CodeIsKing\TextEditor\TextEditorTests\obj\Debug\netcoreapp2.1\TextEditorTests.csprojAssemblyReference.cache
+C:\Users\louise.augustsson\GitHub\CodeIsKing\TextEditor\TextEditorTests\obj\Debug\netcoreapp2.1\TextEditorTests.csproj.CoreCompileInputs.cache
+C:\Users\louise.augustsson\GitHub\CodeIsKing\TextEditor\TextEditorTests\obj\Debug\netcoreapp2.1\TextEditorTests.AssemblyInfoInputs.cache
+C:\Users\louise.augustsson\GitHub\CodeIsKing\TextEditor\TextEditorTests\obj\Debug\netcoreapp2.1\TextEditorTests.AssemblyInfo.cs
+C:\Users\louise.augustsson\GitHub\CodeIsKing\TextEditor\TextEditorTests\obj\Debug\netcoreapp2.1\TextEditorTests.csproj.CopyComplete
+C:\Users\louise.augustsson\GitHub\CodeIsKing\TextEditor\TextEditorTests\obj\Debug\netcoreapp2.1\TextEditorTests.dll
+C:\Users\louise.augustsson\GitHub\CodeIsKing\TextEditor\TextEditorTests\obj\Debug\netcoreapp2.1\TextEditorTests.pdb

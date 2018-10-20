@@ -1,0 +1,14 @@
+C:\Users\louise.augustsson\GitHub\CodeIsKing\FizzBuzz\.vs\FizzBuzz\lut\0\b\FizzBuzz\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\louise.augustsson\GitHub\CodeIsKing\FizzBuzz\.vs\FizzBuzz\lut\0\b\FizzBuzz\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\louise.augustsson\GitHub\CodeIsKing\FizzBuzz\.vs\FizzBuzz\lut\0\b\FizzBuzz\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\louise.augustsson\GitHub\CodeIsKing\FizzBuzz\.vs\FizzBuzz\lut\0\b\FizzBuzz\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\louise.augustsson\GitHub\CodeIsKing\FizzBuzz\.vs\FizzBuzz\lut\0\b\FizzBuzz\Debug\netcoreapp2.1\FizzBuzz.deps.json
+C:\Users\louise.augustsson\GitHub\CodeIsKing\FizzBuzz\.vs\FizzBuzz\lut\0\b\FizzBuzz\Debug\netcoreapp2.1\FizzBuzz.runtimeconfig.json
+C:\Users\louise.augustsson\GitHub\CodeIsKing\FizzBuzz\.vs\FizzBuzz\lut\0\b\FizzBuzz\Debug\netcoreapp2.1\FizzBuzz.runtimeconfig.dev.json
+C:\Users\louise.augustsson\GitHub\CodeIsKing\FizzBuzz\.vs\FizzBuzz\lut\0\b\FizzBuzz\Debug\netcoreapp2.1\FizzBuzz.dll
+C:\Users\louise.augustsson\GitHub\CodeIsKing\FizzBuzz\.vs\FizzBuzz\lut\0\i\FizzBuzz\Debug\netcoreapp2.1\FizzBuzz.csprojAssemblyReference.cache
+C:\Users\louise.augustsson\GitHub\CodeIsKing\FizzBuzz\.vs\FizzBuzz\lut\0\i\FizzBuzz\Debug\netcoreapp2.1\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\louise.augustsson\GitHub\CodeIsKing\FizzBuzz\.vs\FizzBuzz\lut\0\i\FizzBuzz\Debug\netcoreapp2.1\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\louise.augustsson\GitHub\CodeIsKing\FizzBuzz\.vs\FizzBuzz\lut\0\i\FizzBuzz\Debug\netcoreapp2.1\FizzBuzz.AssemblyInfo.cs
+C:\Users\louise.augustsson\GitHub\CodeIsKing\FizzBuzz\.vs\FizzBuzz\lut\0\i\FizzBuzz\Debug\netcoreapp2.1\FizzBuzz.csproj.CopyComplete
+C:\Users\louise.augustsson\GitHub\CodeIsKing\FizzBuzz\.vs\FizzBuzz\lut\0\i\FizzBuzz\Debug\netcoreapp2.1\FizzBuzz.dll

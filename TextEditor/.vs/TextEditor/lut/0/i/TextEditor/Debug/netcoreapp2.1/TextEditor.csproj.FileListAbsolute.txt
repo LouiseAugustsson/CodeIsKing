@@ -1,0 +1,10 @@
+C:\Users\louise.augustsson\GitHub\CodeIsKing\TextEditor\.vs\TextEditor\lut\0\b\TextEditor\Debug\netcoreapp2.1\TextEditor.deps.json
+C:\Users\louise.augustsson\GitHub\CodeIsKing\TextEditor\.vs\TextEditor\lut\0\b\TextEditor\Debug\netcoreapp2.1\TextEditor.runtimeconfig.json
+C:\Users\louise.augustsson\GitHub\CodeIsKing\TextEditor\.vs\TextEditor\lut\0\b\TextEditor\Debug\netcoreapp2.1\TextEditor.runtimeconfig.dev.json
+C:\Users\louise.augustsson\GitHub\CodeIsKing\TextEditor\.vs\TextEditor\lut\0\b\TextEditor\Debug\netcoreapp2.1\TextEditor.dll
+C:\Users\louise.augustsson\GitHub\CodeIsKing\TextEditor\.vs\TextEditor\lut\0\i\TextEditor\Debug\netcoreapp2.1\TextEditor.csprojAssemblyReference.cache
+C:\Users\louise.augustsson\GitHub\CodeIsKing\TextEditor\.vs\TextEditor\lut\0\i\TextEditor\Debug\netcoreapp2.1\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\louise.augustsson\GitHub\CodeIsKing\TextEditor\.vs\TextEditor\lut\0\i\TextEditor\Debug\netcoreapp2.1\TextEditor.AssemblyInfoInputs.cache
+C:\Users\louise.augustsson\GitHub\CodeIsKing\TextEditor\.vs\TextEditor\lut\0\i\TextEditor\Debug\netcoreapp2.1\TextEditor.AssemblyInfo.cs
+C:\Users\louise.augustsson\GitHub\CodeIsKing\TextEditor\.vs\TextEditor\lut\0\i\TextEditor\Debug\netcoreapp2.1\TextEditor.csproj.CopyComplete
+C:\Users\louise.augustsson\GitHub\CodeIsKing\TextEditor\.vs\TextEditor\lut\0\i\TextEditor\Debug\netcoreapp2.1\TextEditor.dll

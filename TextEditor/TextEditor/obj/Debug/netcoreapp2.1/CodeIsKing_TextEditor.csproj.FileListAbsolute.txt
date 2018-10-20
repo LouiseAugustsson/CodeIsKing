@@ -1,0 +1,11 @@
+C:\Users\louise.augustsson\GitHub\CodeIsKing\CodeIsKing_TextEditor\CodeIsKing_TextEditor\bin\Debug\netcoreapp2.1\CodeIsKing_TextEditor.deps.json
+C:\Users\louise.augustsson\GitHub\CodeIsKing\CodeIsKing_TextEditor\CodeIsKing_TextEditor\bin\Debug\netcoreapp2.1\CodeIsKing_TextEditor.runtimeconfig.json
+C:\Users\louise.augustsson\GitHub\CodeIsKing\CodeIsKing_TextEditor\CodeIsKing_TextEditor\bin\Debug\netcoreapp2.1\CodeIsKing_TextEditor.runtimeconfig.dev.json
+C:\Users\louise.augustsson\GitHub\CodeIsKing\CodeIsKing_TextEditor\CodeIsKing_TextEditor\bin\Debug\netcoreapp2.1\CodeIsKing_TextEditor.dll
+C:\Users\louise.augustsson\GitHub\CodeIsKing\CodeIsKing_TextEditor\CodeIsKing_TextEditor\bin\Debug\netcoreapp2.1\CodeIsKing_TextEditor.pdb
+C:\Users\louise.augustsson\GitHub\CodeIsKing\CodeIsKing_TextEditor\CodeIsKing_TextEditor\obj\Debug\netcoreapp2.1\CodeIsKing_TextEditor.csprojAssemblyReference.cache
+C:\Users\louise.augustsson\GitHub\CodeIsKing\CodeIsKing_TextEditor\CodeIsKing_TextEditor\obj\Debug\netcoreapp2.1\CodeIsKing_TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\louise.augustsson\GitHub\CodeIsKing\CodeIsKing_TextEditor\CodeIsKing_TextEditor\obj\Debug\netcoreapp2.1\CodeIsKing_TextEditor.AssemblyInfoInputs.cache
+C:\Users\louise.augustsson\GitHub\CodeIsKing\CodeIsKing_TextEditor\CodeIsKing_TextEditor\obj\Debug\netcoreapp2.1\CodeIsKing_TextEditor.AssemblyInfo.cs
+C:\Users\louise.augustsson\GitHub\CodeIsKing\CodeIsKing_TextEditor\CodeIsKing_TextEditor\obj\Debug\netcoreapp2.1\CodeIsKing_TextEditor.dll
+C:\Users\louise.augustsson\GitHub\CodeIsKing\CodeIsKing_TextEditor\CodeIsKing_TextEditor\obj\Debug\netcoreapp2.1\CodeIsKing_TextEditor.pdb

@@ -1902,10 +1902,11 @@
       ]
     },
     "System.ComponentModel.EventBasedAsync/4.3.0": {
-      "sha512": "fCFl8f0XdwA/BuoNrVBB5D0Y48/hv2J+w4xSDdXQitXZsR6UCSOrDVE7TCUraY802ENwcHUnUCv4En8CupDU1g==",
+      "sha512": "CZfrZ75j4Yt6E9/gutgxzuLJcivncqmcD9QT5AmPcF//r8kVZLrkEY2ZmV4nfsETrNpJhXmxJF/AAAx4ngl/xw==",
       "type": "package",
       "path": "system.componentmodel.eventbasedasync/4.3.0",
       "files": [
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -3762,28 +3763,30 @@
     ]
   },
   "packageFolders": {
-    "/Users/louise.augustsson/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\louise.augustsson\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/louise.augustsson/GitHub/CodeIsKing/FizzBuzz/FizzBuzz/FizzBuzz.csproj",
+      "projectUniqueName": "C:\\Users\\louise.augustsson\\GitHub\\CodeIsKing\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
       "projectName": "FizzBuzz",
-      "projectPath": "/Users/louise.augustsson/GitHub/CodeIsKing/FizzBuzz/FizzBuzz/FizzBuzz.csproj",
-      "packagesPath": "/Users/louise.augustsson/.nuget/packages/",
-      "outputPath": "/Users/louise.augustsson/GitHub/CodeIsKing/FizzBuzz/FizzBuzz/obj",
+      "projectPath": "C:\\Users\\louise.augustsson\\GitHub\\CodeIsKing\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
+      "packagesPath": "C:\\Users\\louise.augustsson\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\louise.augustsson\\GitHub\\CodeIsKing\\FizzBuzz\\FizzBuzz\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/louise.augustsson/.config/NuGet/NuGet.Config"
+        "C:\\Users\\louise.augustsson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3800,31 +3803,30 @@
     "frameworks": {
       "netcoreapp2.1": {
         "dependencies": {
-          "NUnit3TestAdapter": {
+          "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "3.10.0"
+            "version": "[2.1.0, )",
+            "autoReferenced": true
           },
           "NUnit": {
             "target": "Package",
-            "version": "3.10.1"
-          },
-          "NUnit.Runners": {
-            "target": "Package",
-            "version": "3.9.0"
+            "version": "[3.10.1, )"
           },
           "NUnit.Console": {
             "target": "Package",
-            "version": "3.9.0"
+            "version": "[3.9.0, )"
           },
           "NUnit.ConsoleRunner": {
             "target": "Package",
-            "version": "3.9.0"
+            "version": "[3.9.0, )"
           },
-          "Microsoft.NETCore.App": {
-            "suppressParent": "All",
+          "NUnit.Runners": {
             "target": "Package",
-            "version": "2.1",
-            "autoReferenced": true
+            "version": "[3.9.0, )"
+          },
+          "NUnit3TestAdapter": {
+            "target": "Package",
+            "version": "[3.10.0, )"
           }
         },
         "imports": [

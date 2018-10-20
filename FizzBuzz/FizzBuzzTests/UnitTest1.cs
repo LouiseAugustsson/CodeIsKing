@@ -7,7 +7,7 @@ namespace FizzBuzzTests
     public class UnitTest1
     {
         [Fact]
-
+ 
         public void Return_Fizz_If_3_modulus_0()
         {
             string a = FizzBuzz.FizzBuzzClass.GetAnswer(3);
