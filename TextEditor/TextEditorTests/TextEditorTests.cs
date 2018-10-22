@@ -17,7 +17,7 @@ namespace TextEditorTests
         [InlineData("Jag är verkligen kall, är du kall?", @"(?<=v[\S]*\s)kall", "varm", "Jag är verkligen varm, är du kall?")]
         [InlineData("Med stöd av alla, äppelkaka av alla.", @"(?<=\bs[\S]*\s)av", "från", "Med stöd från alla, äppelkaka av alla.")]
         [InlineData("Hej då", "Hej då", "Hejdå", "Hejdå")]
-        [InlineData("jag är saknar pizza. jag älskar pizza", @"(?<=\bs[\S]*\s)pizza", "hamburgare", "jag är saknar hamburgare. jag älskar pizza")]
+        [InlineData("jag saknar pizza. jag älskar pizza", @"(?<=\bs[\S]*\s)pizza", "hamburgare", "jag saknar hamburgare. jag älskar pizza")]
         public void Should_replace_old_word_with_new_word(string inputText, string wordToReplace, string wordToReplaceWith, string correctText)
         {
             string editedText = textEditor.ReplaceWord(inputText, wordToReplace, wordToReplaceWith);
