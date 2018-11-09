@@ -15,9 +15,9 @@ namespace TextEditor
 
         public string ReverseWord(string text, string oldWord)
         {
-            char[] reversed_word_char = oldWord.ToCharArray();
-            Array.Reverse(reversed_word_char);
-            string newWord = new string(reversed_word_char);
+            char[] reversedWordChar = oldWord.ToCharArray();
+            Array.Reverse(reversedWordChar);
+            string newWord = new string(reversedWordChar);
             text = Regex.Replace(text, oldWord, newWord);
             return text;
         }

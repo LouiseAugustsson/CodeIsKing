@@ -1,0 +1,13 @@
+C:\Users\louise.augustsson\GitHub\CodeIsKing\StringReader\.vs\StringReader\lut\0\b\StringReaderTests\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\louise.augustsson\GitHub\CodeIsKing\StringReader\.vs\StringReader\lut\0\b\StringReaderTests\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\louise.augustsson\GitHub\CodeIsKing\StringReader\.vs\StringReader\lut\0\b\StringReaderTests\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\louise.augustsson\GitHub\CodeIsKing\StringReader\.vs\StringReader\lut\0\b\StringReaderTests\Debug\netcoreapp2.1\StringReaderTests.deps.json
+C:\Users\louise.augustsson\GitHub\CodeIsKing\StringReader\.vs\StringReader\lut\0\b\StringReaderTests\Debug\netcoreapp2.1\StringReaderTests.runtimeconfig.json
+C:\Users\louise.augustsson\GitHub\CodeIsKing\StringReader\.vs\StringReader\lut\0\b\StringReaderTests\Debug\netcoreapp2.1\StringReaderTests.runtimeconfig.dev.json
+C:\Users\louise.augustsson\GitHub\CodeIsKing\StringReader\.vs\StringReader\lut\0\b\StringReaderTests\Debug\netcoreapp2.1\StringReaderTests.dll
+C:\Users\louise.augustsson\GitHub\CodeIsKing\StringReader\.vs\StringReader\lut\0\i\StringReaderTests\Debug\netcoreapp2.1\StringReaderTests.csproj.CoreCompileInputs.cache
+C:\Users\louise.augustsson\GitHub\CodeIsKing\StringReader\.vs\StringReader\lut\0\i\StringReaderTests\Debug\netcoreapp2.1\StringReaderTests.AssemblyInfoInputs.cache
+C:\Users\louise.augustsson\GitHub\CodeIsKing\StringReader\.vs\StringReader\lut\0\i\StringReaderTests\Debug\netcoreapp2.1\StringReaderTests.AssemblyInfo.cs
+C:\Users\louise.augustsson\GitHub\CodeIsKing\StringReader\.vs\StringReader\lut\0\i\StringReaderTests\Debug\netcoreapp2.1\StringReaderTests.csproj.CopyComplete
+C:\Users\louise.augustsson\GitHub\CodeIsKing\StringReader\.vs\StringReader\lut\0\i\StringReaderTests\Debug\netcoreapp2.1\StringReaderTests.dll
+C:\Users\louise.augustsson\GitHub\CodeIsKing\StringReader\.vs\StringReader\lut\0\i\StringReaderTests\Debug\netcoreapp2.1\StringReaderTests.csprojAssemblyReference.cache

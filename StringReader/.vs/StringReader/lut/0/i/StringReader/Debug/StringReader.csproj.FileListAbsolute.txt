@@ -1,0 +1,5 @@
+C:\Users\louise.augustsson\GitHub\CodeIsKing\StringReader\.vs\StringReader\lut\0\b\StringReader\bin\Debug\StringReader.exe.config
+C:\Users\louise.augustsson\GitHub\CodeIsKing\StringReader\.vs\StringReader\lut\0\b\StringReader\bin\Debug\StringReader.exe
+C:\Users\louise.augustsson\GitHub\CodeIsKing\StringReader\.vs\StringReader\lut\0\i\StringReader\Debug\StringReader.csproj.CoreCompileInputs.cache
+C:\Users\louise.augustsson\GitHub\CodeIsKing\StringReader\.vs\StringReader\lut\0\i\StringReader\Debug\StringReader.csproj.CopyComplete
+C:\Users\louise.augustsson\GitHub\CodeIsKing\StringReader\.vs\StringReader\lut\0\i\StringReader\Debug\StringReader.exe
